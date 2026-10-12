@@ -22,7 +22,7 @@ Nothing you enter is sent anywhere. The tool runs entirely in your browser — n
 
 ## Running it
 
-**▶ [Open The Landscape](https://ablackwellb.github.io/the-landscape/index.html)** — add a moment, place it, and watch your land take shape. Drag to orbit, scroll to rise or descend. Names emerge as you come closer.
+**▶ [Open The Landscape](https://ashleybrookeblackwell.github.io/the-landscape/index.html)** — add a moment, place it, and watch your land take shape. Drag to orbit, scroll to rise or descend. Names emerge as you come closer.
 Give it twenty unhurried minutes. Start anywhere — the map is never finished, because the life isn't.
 
 ## Repository Contents
