@@ -36,4 +36,4 @@ Give it twenty unhurried minutes. Start anywhere — the map is never finished, 
 ---
  
 **Ashley Blackwell** — Applied Data Scientist
-[LinkedIn](https://linkedin.com/in/ablackwellb) · [GitHub](https://github.com/ablackwellb) · [Hugging Face](https://huggingface.co/ablackwellb)
+[LinkedIn](https://linkedin.com/in/ashleybrookeblackwell) · [GitHub](https://github.com/ashleybrookeblackwell) · [Hugging Face](https://huggingface.co/ablackwellb)
